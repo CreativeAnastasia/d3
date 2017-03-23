@@ -57,5 +57,8 @@ var multiplyArray = function(arr){
 var arr2 = [2, 5, 9, 10];
 console.log(multiplyArray(arr2));
 
+alert('hello');
+alert('hello2');
+
 
 
