@@ -59,6 +59,7 @@ console.log(multiplyArray(arr2));
 
 alert('hello');
 alert('hello2');
+alert('hello43');
 
 
 
