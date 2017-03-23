@@ -39,7 +39,23 @@ var sumArray = function(arr){
   }
   return sum;
 };
-
 var arr2 = [2, 5, 9, 10];
 console.log(sumArray(arr2));
+
+//5.
+var multiplyArray = function(arr){
+  // console.log('function is running');
+  var result = 1;
+  for (var i = 0; i < arr.length; i++){
+     // console.log('loop is running');
+      result *= arr[i];
+      // console.log(result);
+  }
+  return result;
+};
+
+var arr2 = [2, 5, 9, 10];
+console.log(multiplyArray(arr2));
+
+
 
